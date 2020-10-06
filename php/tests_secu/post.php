@@ -40,3 +40,4 @@ sleep(1);
 echo '<hr><a href="index.php">Home</a>';
 
 //header('location: index.php');
+© 2020 GitHub, Inc.

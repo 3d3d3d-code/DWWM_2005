@@ -52,7 +52,6 @@ class DbProducts
                 (name,price,description) 
                 VALUES 
                 ('".$name."', '".$price."', '".$description."')";
-
         echo $sql; */
 
         $sql = "INSERT INTO products 
